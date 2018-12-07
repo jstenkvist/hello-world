@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+This is just a edit for the basic understanding of branches and commits
